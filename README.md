@@ -6,7 +6,7 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 
    <p align="left">
       <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
-         <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>mine</a> 
+         <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <!-- <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  -->
       <a href="https://github.com/ForrestKnight?tab=followers">
