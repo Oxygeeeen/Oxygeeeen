@@ -15,8 +15,8 @@ From concept to delivery, I thrive on bringing projects to life and adding artis
 If you are seeking a dynamic and skilled UX and Frontend Engineer to join your team and collaborate on creating exceptional digital experiences, I'd love to connect and explore how my expertise can contribute to your vision. Together, let's build a world-class user experience that leaves a lasting impact on your audience.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
+         <img alt="hire me" title="Hire me" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
