@@ -6,9 +6,7 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 
    <p align="left">
       <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
-         <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
-      <!-- <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  -->
+         <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
       <a href="https://github.com/Oxygeeeen?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Oxygeeeen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Oxygeeeen?tab=repositories&sort=stargazers">
@@ -21,8 +19,6 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -33,7 +29,6 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -41,7 +36,7 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 YouTube Blogs
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Three tools that enhance my coding workflow](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=Three+tools+that+enhance+my+coding+workflow&lang=en&timestamp=1689693304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=60 "Three tools that enhance my coding workflow")](https://www.youtube.com/watch?v=o4v1tFN7SBk)
@@ -51,8 +46,6 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 [![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=291 "AI bots were given freedom in a virtual city…")](https://www.youtube.com/watch?v=FBvyxc0PSlc)
 [![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
 <!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
@@ -65,8 +58,19 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 Abdulbaasit's Coding Journey</h3></summary>
+   As a seasoned and innovative Frontend and UX Engineer, my coding journey began long before stepping foot in university, around the age of 21. My inherent curiosity and thirst for knowledge led me to explore the world of programming on my own, driven by an insatiable appetite for learning.
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+   Even without formal training, I quickly grasped complex concepts and adapted easily to new technologies. Through sheer determination and a natural knack for problem-solving, I found myself building functional and creative projects from scratch.
+
+   As I embarked on my computer science degree, I already had a wealth of experience under my belt, setting me apart from my peers. My unique story and unconventional path gave me a fresh perspective and an unyielding passion for the craft.
+
+   Throughout my journey, I've had the privilege of working on diverse and challenging projects, pushing the boundaries of frontend and UX engineering. My knack for innovation and innate intelligence fueled my dedication to crafting captivating user experiences that leave a lasting impression.
+
+   I am humbled by the opportunities I've had to collaborate with brilliant minds, both within and outside the university. The experience has enriched my skill set, broadened my horizons, and reinforced my belief in the power of technology to transform lives.
+
+   With each project, I continue to embrace new challenges, striving to make a meaningful impact in the digital realm. My journey is a testament to the boundless potential of self-driven learning and the magic that unfolds when passion and intelligence intertwine.
+
+   As I progress in my career, I remain committed to pushing the boundaries of innovation, eagerly embracing the unknown, and leaving a trail of exceptional user experiences in my wake. Let's continue this extraordinary journey of creating the future, one code at a time.
+
+[website]: https://abdulbaasitisah.netlify.app
