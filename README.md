@@ -5,7 +5,7 @@
 Skilled UX and Frontend Engineer passionate about creating user-centric interfaces. Expertise in user research, wireframing, and intuitive design. Proficient in React, HTML, CSS, and JavaScript for building visually appealing web applications. Adept at translating concepts into delightful user experiences. Committed to delivering projects that address real-life challenges. Enthusiastic about adding artistic touches that elevate user journeys. Seeking opportunities to collaborate on impactful digital experiences. Ready to contribute expertise to create world-class UX. Let's connect to explore collaboration possibilities. Let's build a lasting impact together.
 
    <p align="left">
-      <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
+      <a href="https://github.com/Oxygeeeen?tab=repositories">
          <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
       <a href="https://github.com/Oxygeeeen?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Oxygeeeen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -36,10 +36,6 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 
 #
 
-
-
-#
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxygeeeen&show_icons=true&theme=gruvbox)
@@ -51,6 +47,7 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 <details>
  <summary><h3>👨‍💻 Abdulbaasit's Coding Journey</h3></summary>
    As a seasoned and innovative Frontend and UX Engineer, my coding journey began long before stepping foot in university, around the age of 21. My inherent curiosity and thirst for knowledge led me to explore the world of programming on my own, driven by an insatiable appetite for learning.
+
 
    Even without formal training, I quickly grasped complex concepts and adapted easily to new technologies. Through sheer determination and a natural knack for problem-solving, I found myself building functional and creative projects from scratch.
 
