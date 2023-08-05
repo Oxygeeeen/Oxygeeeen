@@ -2,27 +2,19 @@
 
 **`Digital Craftsman (Developer/Designer/Engineer)`**
 
-As a skilled and enthusiastic UX and Frontend Engineer, I am dedicated to shaping the digital world through thoughtful design and seamless user experiences.
-
-My passion lies in crafting user-centric interfaces, from ideation and planning to the final execution, ensuring that each project engages and delights users.
-
-In the realm of UX, I excel in conducting comprehensive user research, creating wireframes, and designing intuitive user interfaces that address real-life challenges.
-
-On the frontend engineering front, I possess expertise in leveraging modern technologies like React, HTML, CSS, and JavaScript to develop visually appealing and responsive web applications.
-
-From concept to delivery, I thrive on bringing projects to life and adding artistic touches that elevate the overall user journey.
-
-If you are seeking a dynamic and skilled UX and Frontend Engineer to join your team and collaborate on creating exceptional digital experiences, I'd love to connect and explore how my expertise can contribute to your vision. Together, let's build a world-class user experience that leaves a lasting impact on your audience.
+Skilled UX and Frontend Engineer passionate about creating user-centric interfaces. Expertise in user research, wireframing, and intuitive design. Proficient in React, HTML, CSS, and JavaScript for building visually appealing web applications. Adept at translating concepts into delightful user experiences. Committed to delivering projects that address real-life challenges. Enthusiastic about adding artistic touches that elevate user journeys. Seeking opportunities to collaborate on impactful digital experiences. Ready to contribute expertise to create world-class UX. Let's connect to explore collaboration possibilities. Let's build a lasting impact together.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
-         <img alt="hire me" title="Hire me" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>mine</a> 
+      <!-- <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>  -->
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Oxygeeeen?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
+         <img alt="discuss" title="Let's discuss on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
    </p>
 
 ---
