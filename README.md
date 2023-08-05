@@ -46,7 +46,7 @@ Skilled UX and Frontend Engineer passionate about creating user-centric interfac
 
 <details>
  <summary><h3>👨‍💻 Abdulbaasit's Coding Journey</h3></summary>
-   As a seasoned and innovative Frontend and UX Engineer, my coding journey began long before stepping foot in university, around the age of 21. My inherent curiosity and thirst for knowledge led me to explore the world of programming on my own, driven by an insatiable appetite for learning.
+   As a seasoned and innovative Frontend and UX Engineer, my coding journey began long before stepping foot in university, in my early 20s. My inherent curiosity and thirst for knowledge led me to explore the world of programming on my own, driven by an insatiable appetite for learning.
 
 
    Even without formal training, I quickly grasped complex concepts and adapted easily to new technologies. Through sheer determination and a natural knack for problem-solving, I found myself building functional and creative projects from scratch.
