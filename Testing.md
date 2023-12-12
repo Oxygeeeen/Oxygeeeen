@@ -1,23 +1,23 @@
-# 🏄‍♂️ AbdulbaasitIsah
+# 👨‍💻 Abdulbaasit Isah
 
 **`Digital Craftsman (Designer/Engineer)`**
 
-I'm passionate about 🎨 design systems, ♿️ accessibility, ⚙️ Components Development, and 😍 user experience
+I am a passionate advocate for 🎨 design systems, ♿️ accessibility, ⚙️ component development, and 😍 user experience.
 
-   <p align="left">
-      <a href="https://github.com/Oxygeeeen?tab=repositories">
-         <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <a href="https://github.com/Oxygeeeen?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Oxygeeeen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Oxygeeeen?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Oxygeeeen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
-         <img alt="discuss" title="Let's discuss on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
-   </p>
+<p align="left">
+   <a href="https://github.com/Oxygeeeen?tab=repositories">
+      <img alt="repositories" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
+   <a href="https://github.com/Oxygeeeen?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Oxygeeeen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/Oxygeeeen?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Oxygeeeen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/">
+      <img alt="discuss" title="Let's discuss on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -40,24 +40,25 @@ I'm passionate about 🎨 design systems, ♿️ accessibility, ⚙️ Component
 <img align="left" alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 <img align="left" alt="Sketch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
 <img align="left" alt="Invision" width="30px" src="https://simpleicons.org/icons/invision.svg" />
+
 <br />
 
-#
+---
 
-### 📊 Stats
+## 📊 Stats
 
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxygeeeen&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Oxygeeeen&theme=gruvbox&border_radius=4.5)
 
-#
+---
 
 <details>
   <summary><h3>👨‍💻 Abdulbaasit's Coding Journey</h3></summary>
   
-  My coding journey kicked off at the age of 13 when I joined an after-school training with my friends on web development and graphic design in grade 10. Inspired by my elder brother, now a successful Data Intelligence Expert @[Nestle](https://www.nestle.com/), I eagerly delved into learning Python the following year. The impact of that after-school training was profound, and my father, recognizing my passion, bought me my first laptop—an HP—marking a significant turning point.
+  My coding journey began at the age of 13 when I joined an after-school training on web development and graphic design in grade 10, inspired by my elder brother, now a successful Data Intelligence Expert at [Nestle](https://www.nestle.com/). The impact of that training was profound, and my father, recognizing my passion, bought me my first laptop—an HP—marking a significant turning point.
 
-  Even at the age of 14, while learning Python with my brother, I started earning freelance money on some college students' coding assignments and enterprise web/graphics design projects. What captivated me about programming and tech as a whole was the idea of being a young kid, sitting in my apartment, and having the power to control things far beyond my immediate surroundings.
+  Even at the age of 14, while learning Python with my brother, I started earning freelance money on college students' coding assignments and enterprise web/graphics design projects. What captivated me about programming and tech was the idea of being a young kid, sitting in my apartment, and having the power to control things far beyond my immediate surroundings.
 
   Now, as I progress in my career, I am committed to pushing the boundaries of innovation, eagerly embracing the unknown, with the goal of leaving behind a trail of exceptional user experiences—an extraordinary journey of shaping the future, one line of code at a time.
 
