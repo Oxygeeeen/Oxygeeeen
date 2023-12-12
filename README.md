@@ -1,8 +1,8 @@
-# 🏄‍♂️ AbdulbaasitIsah
+# 👨‍💻 AbdulbaasitIsah
 
 **`Digital Craftsman (Designer/Engineer)`**
 
-I'm passionate about 🎨 design systems, ♿️ accessibility, ⚙️ Components Development, and 😍 user experience
+I am a passionate advocate for 🎨 design systems, ♿️ accessibility, ⚙️ component development, and 😍 user experience.
 
    <p align="left">
       <a href="https://github.com/Oxygeeeen?tab=repositories">
@@ -41,6 +41,8 @@ I'm passionate about 🎨 design systems, ♿️ accessibility, ⚙️ Component
 <img align="left" alt="Sketch" width="30px" style="margin-right: 10px; margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
 <img align="left" alt="Invision" width="30px" style="margin-right: 10px; margin-bottom: 10px" src="https://simpleicons.org/icons/invision.svg" />
 <br />
+<br />
+<br />
 
 #
 
@@ -53,9 +55,9 @@ I'm passionate about 🎨 design systems, ♿️ accessibility, ⚙️ Component
 #
 
 <details>
-  <summary><h3>👨‍💻 Abdulbaasit's Coding Journey</h3></summary>
+  <summary><h3>👨‍💻 Abdul's Coding Journey</h3></summary>
   
-  My coding journey kicked off at the age of 13 when I joined an after-school training with my friends on web development and graphic design in grade 10. Inspired by my elder brother, now a successful Data Intelligence Expert @[Nestle](https://www.nestle.com/), I eagerly delved into learning Python the following year. The impact of that after-school training was profound, and my father, recognizing my passion, bought me my first laptop—an HP—marking a significant turning point.
+  My coding journey kicked off at the age of 13 when I joined an after-school training with my friends on web development and graphic design in grade 10. Inspired by my elder brother, now a successful Data Intelligence Expert [@Nestle](https://www.nestle.com/), I eagerly delved into learning Python the following year. The impact of that after-school training was profound, and my father, recognizing my passion, bought me my first laptop—an HP—marking a significant turning point.
 
   Even at the age of 14, while learning Python with my brother, I started earning freelance money on some college students' coding assignments and enterprise web/graphics design projects. What captivated me about programming and tech as a whole was the idea of being a young kid, sitting in my apartment, and having the power to control things far beyond my immediate surroundings.
 
