@@ -46,7 +46,7 @@ I am a passionate advocate for 🎨 design systems, ♿️ accessibility, ⚙️
 
 ### 📊 Stats
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oxygeeeen&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="46.74%" />
   
   <img src="https://streak-stats.demolab.com?user=Oxygeeeen&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" width="49.26%" />
