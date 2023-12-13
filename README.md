@@ -41,17 +41,15 @@ I am a passionate advocate for 🎨 design systems, ♿️ accessibility, ⚙️
 <img align="left" alt="Sketch" width="30px" style="margin-right: 10px; margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
 <img align="left" alt="Invision" width="30px" style="margin-right: 10px; margin-bottom: 10px" src="https://simpleicons.org/icons/invision.svg" />
 <br />
-<br />
-<br />
 
 #
 
 ### 📊 Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oxygeeeen&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="46.8%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxygeeeen&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="46.74%" />
   
-  <img src="https://streak-stats.demolab.com?user=Oxygeeeen&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" width="49.2%" />
+  <img src="https://streak-stats.demolab.com?user=Oxygeeeen&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" width="49.26%" />
 </div>
 
 #
@@ -59,11 +57,11 @@ I am a passionate advocate for 🎨 design systems, ♿️ accessibility, ⚙️
 <details>
   <summary><h3>👨‍💻 Abdul's Coding Journey</h3></summary>
   
-  My coding journey kicked off at the age of 13 when I joined an after-school training with my friends on web development and graphic design in grade 10. Inspired by my elder brother, now a successful Data Intelligence Expert [@Nestle](https://www.nestle.com/), I eagerly delved into learning Python the following year. The impact of that after-school training was profound, and my father, recognizing my passion, bought me my first laptop—an HP—marking a significant turning point.
+  My coding journey kicked off at the age of 13 when I joined an after-school training with my friends on web development and graphic design in grade-10. Inspired by my elder brother, Data Intelligence Expert [@Nestle](https://www.nestle.com/), I eagerly delved into learning Python the following year. The impact of that after-school training was profound, and my father, recognizing my passion, bought me my first laptop, an HP 🎁
 
-  Even at the age of 14, while learning Python with my brother, I started earning freelance money on some college students' coding assignments and enterprise web/graphics design projects. What captivated me about programming and tech as a whole was the idea of being a young kid, sitting in my apartment, and having the power to control things far beyond my immediate surroundings.
+  Even at age 14, while learning Python with my bro, I started making freelance money on some college students' coding assignments and enterprises' web/graphics design projects. What captivated me about programming and tech as a whole was the idea of being a young kid, sitting in my apartment, and having the power to control things far beyond my immediate surroundings.
 
-  Now, as I progress in my career, I am committed to pushing the boundaries of innovation, eagerly embracing the unknown, with the goal of leaving behind a trail of exceptional user experiences—an extraordinary journey of shaping the future, one line of code at a time.
+  Now, as I progress in my career, I am committed to pushing the boundaries of innovation, eagerly embracing the unknown 🌍, with the goal of leaving behind a trail of exceptional user experiences—an extraordinary journey of shaping the future, one line of code at a time.
 
   Let's create something amazing together! 💻✨
 </details>
