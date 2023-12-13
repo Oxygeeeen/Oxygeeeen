@@ -65,3 +65,20 @@ I am a passionate advocate for 🎨 design systems, ♿️ accessibility, ⚙️
 
   Let's create something amazing together! 💻✨
 </details>
+
+
+
+<!-- ### 📊 Stats
+
+| GitHub Stats                                     | GitHub Streak                                    |
+|---------------------------------------------------|---------------------------------------------------|
+| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxygeeeen&show_icons=true&theme=gruvbox) | ![GitHub Streak](https://streak-stats.demolab.com?user=Oxygeeeen&theme=gruvbox&border_radius=4.5) | -->
+
+
+### 📊 Stats
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxygeeeen&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://streak-stats.demolab.com?user=Oxygeeeen&theme=gruvbox&border_radius=4.5" alt="GitHub Streak" width="48%" />
+</div>
